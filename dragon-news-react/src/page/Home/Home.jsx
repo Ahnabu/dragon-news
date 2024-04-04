@@ -3,7 +3,8 @@
 const Home = () => {
     return (
         <div>
-            hello from home
+            <h1 className="text-3xl font-poppins"> hello from home</h1>
+           
         </div>
     );
 };
